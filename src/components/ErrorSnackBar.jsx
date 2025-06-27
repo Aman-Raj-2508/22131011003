@@ -1,4 +1,4 @@
-// components/AlertSnackbar.jsx
+
 import { Snackbar, Alert } from '@mui/material';
 
 export default function ErrorSnackbar({ open, message, onClose, severity = 'error' }) {

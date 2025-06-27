@@ -1,4 +1,4 @@
-// utils/validators.js
+
 export function isValidURL(url) {
     try {
         new URL(url);

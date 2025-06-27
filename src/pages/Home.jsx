@@ -1,4 +1,3 @@
-// pages/Home.jsx
 import { useState } from 'react';
 import { TextField, Button, Grid, Paper, Typography } from '@mui/material';
 import { logAction } from '../utils/loggerMiddlewares';

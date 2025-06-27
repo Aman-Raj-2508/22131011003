@@ -1,4 +1,4 @@
-// utils/shortCodeGenerator.js
+
 export function generateShortCode(existingCodes = new Set()) {
     const charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
     let code;

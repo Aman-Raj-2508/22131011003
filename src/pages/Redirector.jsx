@@ -1,4 +1,4 @@
-// pages/Redirector.jsx
+
 import { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { logAction } from '../utils/loggerMiddlewares';
